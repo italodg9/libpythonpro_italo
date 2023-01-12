@@ -101,8 +101,8 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro"
-NAME = PACKAGE
+PACKAGE = "libpythonpro_idg"
+NAME = "libpythonpro_idg"
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Ítalo Gomes"
 AUTHOR_EMAIL = "italodg9@outlook.com"
