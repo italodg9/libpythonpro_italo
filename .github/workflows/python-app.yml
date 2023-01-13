@@ -39,4 +39,4 @@ jobs:
         pytest
     - name: flake8
       run: |
-        pipenv run flake8
+        flake8
