@@ -30,4 +30,4 @@ jobs:
         python manage.py test
     - name: flake8
       run: |
-        pipenv run flake8 .
+        flake8
