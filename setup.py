@@ -104,7 +104,7 @@ def find_package_data(
 PACKAGE = "libpythonpro-idg"
 NAME = "libpythonpro-idg"
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
-AUTHOR = "Ítalo Gomes"
+AUTHOR = "Ítalo Dias Gomes"
 AUTHOR_EMAIL = "italodg9@outlook.com"
 URL = "https://github.com/italodg9/libpythonpro_italo"
 VERSION = __import__(PACKAGE).__version__

@@ -1,4 +1,4 @@
-from libpythonpro_idg.spam.enviador_de_email import Enviador
+from libpythonpro_idgo.spam.enviador_de_email import Enviador
 
 
 def test_criar_enviador_de_email():
