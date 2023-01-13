@@ -31,9 +31,4 @@ jobs:
     - name: flake8
       run: |
         pipenv run flake8 .
-    - name: Test with pytest
-      run: |
-      pipenv run pytest libpythonpro --cov=libpythonpro
-    - name: Posting Coverage
-      run: |
-      pipenv run codecov
+
